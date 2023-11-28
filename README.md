@@ -7,11 +7,11 @@ Desenvolvi um jogo de Sudoku em linguagem C que gera partidas de forma aleatóri
 
 > #### Tela Principal
 >
-> ![Home](imagem.png)
+> ![Home](imgs/imagem.png)
 
 > #### Tela do Jogo
 >
-> ![Sudoko](imagem2.png)
+> ![Sudoko](imgs/imagem2.png)
 
 Esse jogo é dependente da biblioteca ncurses e para fazer a compilação é necessario usar p seguinte no terminal:
 
